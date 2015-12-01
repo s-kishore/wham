@@ -1,0 +1,20 @@
+.main_content{
+     position:absolute;
+     width:650px;
+     height:200px;
+     z-index:15;
+     top:50%;
+     left:50%;
+     margin:-100px 0 0 -250px;
+}
+.qry_box{
+	width:35%;
+}
+.loc_box{
+	width:35%;
+}
+.dist_fld{
+	margin-left:20px;
+}
+.dist_txt{
+}
